@@ -1,0 +1,5 @@
+name: MineChat
+version: 1.0
+author: Renzy
+description: a chat controller for bungee servers!
+main: xyz.$renzy.MineChat
